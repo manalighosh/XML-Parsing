@@ -1,7 +1,4 @@
-#import os
-from lxml import etree    #import cElementTree as ET
-#import csv
-#import logging
+from lxml import etree    
 import pandas as pd
 import time
 
