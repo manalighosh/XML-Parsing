@@ -1,15 +1,9 @@
-
-
-
 #import os
 from lxml import etree    #import cElementTree as ET
 #import csv
 #import logging
 import pandas as pd
 import time
-#from logging.config import fileConfig
-#fileConfig("C:\Lavanya\Work_on_bash_script\config.ini")
-
 
 #-------------------------------
 def find_nth(str, sub_str, n):
